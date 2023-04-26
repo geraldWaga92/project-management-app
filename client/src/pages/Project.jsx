@@ -22,7 +22,7 @@ export default function Project() {
             Back
           </Link>
 
-          <h1 class="text-decoration-underline text-primary">{data.project.name}</h1>
+          <h1 className="text-decoration-underline text-primary">{data.project.name}</h1>
           <p>{data.project.description}</p>
 
           <h5 className="mt-3">Project Status</h5>
