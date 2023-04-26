@@ -33,6 +33,7 @@ export default function AddProjectModal() {
     }
 
     addProject(name, description, clientId, status);
+   
 
     setName('');
     setDescription('');
