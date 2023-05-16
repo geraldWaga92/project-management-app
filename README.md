@@ -1,4 +1,4 @@
-**# Project Management App
+# Project Management App
 
 A simple team project management application which track all the team member individual projects. The user can create, delete and update the project and assign a member for the project. 
 
